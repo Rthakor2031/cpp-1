@@ -12,11 +12,11 @@ main()
 	cout << "id:";
 	cin >> a1.car_id;
 	cout << "company name:";
-	cin >> a1.car_company_name;
+	getline = (cin , a1.car_company_name);
 	cout << "color:";
-	cin >> a1.car_color;
+	getline = (cin , a1.car_color);
 	cout << "model:";
-	cin >> a1.car_model;
+	getline = (cin , a1.car_model);
 	cout << "release year:";
 	cin >> a1.car_release_year;
 	
@@ -24,11 +24,11 @@ main()
 	cout << "id:";
 	cin >> a2.car_id;
 	cout << "company name:";
-	cin >> a2.car_company_name;
+	getline = (cin , a2.car_company_name);
 	cout << "color:";
-	cin >> a2.car_color;
+	getline = (cin , a2.car_color);
 	cout << "model:";
-	cin >> a2.car_model;
+	getline = (cin , a2.car_model);
 	cout << "release year:";
 	cin >> a2.car_release_year;
 	
@@ -36,11 +36,11 @@ main()
 	cout << "id:";
 	cin >> a3.car_id;
 	cout << "company name:";
-	cin >> a3.car_company_name;
+	getline = (cin , a3.car_company_name);
 	cout << "color:";
-	cin >> a3.car_color;
+	getline = (cin , a3.car_color);
 	cout << "model:";
-	cin >> a3.car_model;
+	getline = (cin , a3.car_model);
 	cout << "release year:";
 	cin >> a3.car_release_year;
 	
@@ -48,11 +48,11 @@ main()
 	cout << "id:";
 	cin >> a4.car_id;
 	cout << "company name:";
-	cin >> a4.car_company_name;
+	getline = (cin , a4.car_company_name);
 	cout << "color:";
-	cin >> a4.car_color;
+	getline = (cin , a4.car_color);
 	cout << "model:";
-	cin >> a4.car_model;
+	getline = (cin , a4.car_model);
 	cout << "release year:";
 	cin >> a4.car_release_year;
 	
