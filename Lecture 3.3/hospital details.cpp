@@ -27,7 +27,7 @@ class Hospital
 	}
 	Hospital()
 	{
-		cout << endl << "welcome" <<endl;
+		cout << endl << "sivil hospital" <<endl;
 	}
 	~Hospital()
 	{
